@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Social or Content‑sharing app**
 
-- 🌱 I’m currently learning **FullStack web development(MERNSTACK)**
+- 🌱 I’m currently learning and working **FullStack web development(MERNSTACK)**
 
 - 👯 I’m looking to collaborate on **E‑commerce Website (Amazon / Flipkart style)**
 
