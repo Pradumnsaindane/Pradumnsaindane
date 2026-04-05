@@ -2,6 +2,27 @@
 
 ###
 
+<p align="left">I am a software engineer focused on building scalable and practical solutions through consistent learning and execution. My work revolves around full-stack development using modern technologies, combined with a strong foundation in problem-solving and system design.<br><br>I believe in a hands-on approach learning by building, optimizing, and improving with every project. My goal is not just to write code, but to understand how systems work at scale and how technology can create real impact.<br><br>Looking ahead, I aim to grow into a product-focused engineer who can design efficient, scalable systems and contribute to meaningful innovations by combining engineering with strategic thinking.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pradumn-saindane-20893539a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/pradumncodes7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/32149176/pradum-saindane" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.instagram.com/pradums17/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -38,29 +59,6 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="left">I am a software engineer focused on building scalable and practical solutions through consistent learning and execution. My work revolves around full-stack development using modern technologies, combined with a strong foundation in problem-solving and system design.<br><br>I believe in a hands-on approach learning by building, optimizing, and improving with every project. My goal is not just to write code, but to understand how systems work at scale and how technology can create real impact.<br><br>Looking ahead, I aim to grow into a product-focused engineer who can design efficient, scalable systems and contribute to meaningful innovations by combining engineering with strategic thinking.</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pradumn-saindane-20893539a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/pradumncodes7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/32149176/pradum-saindane" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.instagram.com/pradums17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -77,15 +75,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradumnsaindane/Pradumnsaindane/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradumnsaindane/Pradumnsaindane/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pradumnsaindane/Pradumnsaindane/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Pradumnsaindane/Pradumnsaindane/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pradumnsaindane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
