@@ -82,7 +82,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Pradumnsaindane/Pradumnsaindane/output/snake.svg" alt="Snake animation" />
-
-###
