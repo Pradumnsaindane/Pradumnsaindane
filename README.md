@@ -1,146 +1,124 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pradumn%20Saindane&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps%20%7C%20Building%20Scalable%20Solutions&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Code%20with%20purpose%7CLearn%20relentlessly%7CBuild%20for%20impact" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Pradumnsaindane">
-    <img src="https://komarev.com/ghpvc/?username=Pradumnsaindane&label=Profile%20views&color=00FFFF&style=flat-square" alt="Pradumnsaindane's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- I’m Pradumn Saindane, a Software Engineer passionate about building scalable, user-focused applications and continuously expanding my technical expertise. I enjoy transforming ideas into practical solutions through clean code, thoughtful design, and modern development practices.
-- My primary interests include Full-Stack Development, Cloud Computing, Artificial Intelligence, and DevOps. I’m committed to strengthening my problem-solving skills through Data Structures & Algorithms while exploring technologies that enable reliable, high-performance software.
-- I believe in continuous learning, open-source collaboration, and building projects that create real-world impact. Whether it’s developing web applications, experimenting with AI-powered solutions, or working with cloud technologies, I enjoy tackling challenging problems and delivering meaningful results.
-
-
-## 🧠 My Focus Areas
-* Building production-ready Full-Stack applications
-* Learning AWS, DevOps, and Cloud Architecture
-* Exploring AI-powered software solutions
-* Solving Data Structures & Algorithms problems
-* Contributing to open-source projects and improving developer skills
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Pradumnsaindane">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pradumnsaindane&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Pradumnsaindane's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Pradumnsaindane&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Pradumn Saindane's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Pradumnsaindane&theme=nightowl&radius=10" alt="Pradumnsaindane's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pradumnsaindane">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pradumnsaindane&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradumn-saindane-20893539a/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/pradumncodes7">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/8767634677">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:psaindane09@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+# Pradumn Saindane
+
+**Software Engineer · Full-Stack Development · AI & Cloud**
+
+I build practical software products, explore AI-powered applications, and focus on the engineering fundamentals behind reliable, scalable systems.
+
+[GitHub](https://github.com/Pradumnsaindane) · [LinkedIn](https://www.linkedin.com/in/pradumn-saindane-20893539a/) · [Portfolio](https://devportfolio-tw4z204.public.builtwithrocket.new) · [LeetCode](https://leetcode.com/u/Pradum_saindane/)
+
 </div>
 
+---
+
+## About
+
+I'm a product-focused software developer who enjoys turning real user problems into useful, maintainable software. I work across the application stack—from shaping responsive interfaces and building backend APIs to connecting databases and integrating product workflows.
+
+I care about the complete product lifecycle: understanding the problem, choosing the right technical approach, shipping a working solution, and improving it as requirements grow.
+
+My core areas of focus include **Full-Stack Development, React, Next.js, JavaScript, Java, Node.js, REST APIs, PostgreSQL, SQL, Git/GitHub, and Application Architecture**. I'm also developing deeper expertise in **Data Structures & Algorithms, AI Integration, AWS, Docker, CI/CD, and DevOps**.
+
+I aim to build software that is modular, maintainable, testable, and ready to evolve—not just interfaces that look good.
+
+## Selected Projects
+
+### 1. [Commun](https://commun-nine.vercel.app/)
+
+*A community platform focused on discovery, content, and meaningful connections.*
+
+Commun explores how people can discover relevant communities, connect with others, create content, and engage through a unified platform.
+
+**Problem it solves:** Online communities and creator interactions are often fragmented across platforms, making it difficult to discover relevant people and maintain meaningful engagement.
+
+**Engineering & scalability:** Modular discovery, profile, publishing, and interaction workflows provide a foundation for evolving features independently as the platform grows.
+
+**Tech:** Next.js · JavaScript/TypeScript · Supabase · PostgreSQL
+
+[Live Demo](https://commun-nine.vercel.app/) · [Source Code](https://github.com/Pradumnsaindane/Commun)
+
+---
+
+### 2. [Look Through](https://look-through.vercel.app/)
+
+*A dashboard-focused product experience built around clear navigation and usability.*
+
+Look Through combines a dedicated product introduction with a dashboard experience, helping users understand the product and move directly into its workspace.
+
+**Problem it solves:** Users need a clear path from understanding a product's value to accessing its core functionality without confusing navigation.
+
+**Engineering & scalability:** A separated product-story experience and dashboard structure provides room to introduce additional workspace features and user workflows.
+
+**Tech:** Next.js · React · JavaScript/TypeScript · UI Engineering
+
+[Live Demo](https://look-through.vercel.app/)
+
+---
+
+### 3. [QueueLess](http://queueless-frontendbucket-3mz5sksdsxhq.s3-website-us-east-1.amazonaws.com/)
+
+*A queue-management project exploring a better waiting experience.*
+
+QueueLess explores how digital workflows can help people manage queues more efficiently and make waiting less disruptive.
+
+**Problem it solves:** Traditional queues create uncertainty around waiting times and make customer flow difficult to manage efficiently.
+
+**Engineering & scalability:** Separating queue status, customer-facing updates, and service workflows provides a potential path toward supporting additional service locations and concurrent users.
+
+**Tech:** Web Development · JavaScript · Frontend Engineering
+
+[Live Demo](http://queueless-frontendbucket-3mz5sksdsxhq.s3-website-us-east-1.amazonaws.com/) · [Source Code](https://github.com/Pradumnsaindane/QueueLess)
+
+---
+
+## Tech Stack
+
+**Languages:** Java · JavaScript · Python · SQL
+
+**Development:** React · Next.js · Node.js · Express.js · Flask · HTML · CSS · Tailwind CSS
+
+**Databases & Backend:** PostgreSQL · MySQL · Supabase · REST APIs
+
+**Tools & Cloud:** Git · GitHub · VS Code · Vite · AWS · Docker · CI/CD
+
+## Current Focus
+
+- Strengthening problem-solving skills through Java and Data Structures & Algorithms.
+- Building maintainable full-stack applications with clear frontend and backend boundaries.
+- Exploring practical AI integrations and data-driven application features.
+- Learning cloud infrastructure, application deployment, Docker, and CI/CD workflows.
+- Improving software architecture, testing practices, and production-readiness skills.
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pradumnsaindane&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradumnsaindane&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
+
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumn-saindane-20893539a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pradumnsaindane)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pradum_saindane/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/psaindane09)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pradumncodes7)
+
+[Email Me](mailto:psaindane09@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building with purpose. Learning through engineering. Improving with every iteration.*
+
+</div>
