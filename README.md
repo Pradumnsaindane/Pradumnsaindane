@@ -1,57 +1,65 @@
-# HI, i'm pradumn
+# hi, i'm pradumn
 
-i'm a software developer from Pune, India. i enjoy building applications, exploring how systems work, and turning ideas into software that solves practical problems. most of my work revolves around full-stack development, backend engineering, and understanding the engineering decisions behind a product. i'm particularly interested in how applications are designed, how their different components communicate, and what makes software reliable as it grows.
+i'm a software developer from Pune, India, interested in building software that solves real problems. i'm particularly interested in forward-deployed engineering, backend systems, intelligent applications, and the infrastructure behind modern software products. i enjoy working across different parts of a product, understanding what people actually need, and turning those requirements into working technical solutions.
 
-i work primarily with Java, JavaScript, Python, React, Next.js, Node.js, and databases. outside development, i'm working on strengthening my understanding of computer science fundamentals, system design, cloud infrastructure, and software architecture. i prefer learning by building, experimenting, debugging, and understanding why something works rather than simply making it work.
+i work with Java, JavaScript, Python, React, Next.js, Node.js, and databases. i'm also exploring how modern engineering teams use AI systems, autonomous agents, cloud infrastructure, and developer platforms to build and operate software more effectively. i care about understanding the complete engineering process, from problem discovery and system design to implementation, deployment, and production reliability.
 
-i'm currently focused on growing as a software engineer, with an interest in backend systems, full-stack product development, and modern infrastructure.
+i'm interested in the space between software engineering and real-world problem solving: working with users, integrating existing systems, designing technical solutions, and taking ownership of getting those solutions into production. my longer-term direction is to grow into a forward-deployed engineer who can work across software, infrastructure, and intelligent systems.
 
-most of my work lives on [GitHub](https://github.com/Pradumnsaindane), with a longer look at my work on my [portfolio](https://devportfolio-tw4z204.public.builtwithrocket.new/).
+most of my work lives on [GitHub](https://github.com/Pradumnsaindane), with more about my projects on my [portfolio](https://devportfolio-tw4z204.public.builtwithrocket.new/).
 
 ## building things
 
-- [Commun](https://commun-nine.vercel.app/): a community platform for discovering communities, connecting with people, and sharing content. built around profiles, community discovery, publishing, and social interactions. the engineering focus includes authentication, authorization, database management, and modular application workflows. ([source code](https://github.com/Pradumnsaindane/Commun))
+- [Commun](https://commun-nine.vercel.app/): a community platform for discovering communities, connecting with people, and sharing content. built around profiles, community discovery, publishing, and social interactions. the engineering work focuses on authentication, authorization, PostgreSQL, API integration, and modular application workflows. ([source code](https://github.com/Pradumnsaindane/Commun))
 
-- [Look Through](https://look-through.vercel.app/): a dashboard-focused product with a separate product introduction and working application experience. explores frontend architecture, authentication, server-side authorization, API integration, and structured dashboard workflows.
+- [Look Through](https://look-through.vercel.app/): a dashboard-focused product with a separate product introduction and working application experience. explores application architecture, authentication, server-side authorization, API integration, and structured dashboard workflows. the goal is to create a maintainable product experience where the introduction, user access, and actual application functionality work together.
 
-- [QueueLess](http://queueless-frontendbucket-3mz5sksdsxhq.s3-website-us-east-1.amazonaws.com/): a digital queue-management application exploring how service providers can organize customer flow and make waiting more predictable. focuses on digital queue workflows, customer interactions, and service management. ([source code](https://github.com/Pradumnsaindane/QueueLess))
+- [QueueLess](http://queueless-frontendbucket-3mz5sksdsxhq.s3-website-us-east-1.amazonaws.com/): a digital queue-management application exploring how service providers can organize customer flow and make waiting more predictable. focuses on digital queue workflows, customer interactions, and service management. future engineering directions include event-driven queue updates, real-time communication, and scalable service integrations. ([source code](https://github.com/Pradumnsaindane/QueueLess))
 
-- [AI Model Generator](https://github.com/Pradumnsaindane): a development project exploring model generation and execution through a unified application. built around Python, FastAPI, backend APIs, and conversational interfaces. currently focused on backend integration, execution workflows, and application architecture.
+- **AI Model Generator (in development):** a platform exploring how developers can generate, organize, execute, and test model implementations through a unified development environment. built around Python, FastAPI, backend APIs, and LLM provider integration. current engineering interests include model orchestration, execution workflows, provider abstraction, and making development operations more reliable.
 
 ## working with technology
 
 - **Languages:** Java, JavaScript, Python, SQL.
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS, Vite.
-- **Backend:** Node.js, Express.js, FastAPI, REST APIs.
-- **Databases:** PostgreSQL, MySQL, Supabase.
-- **Tools:** Git, GitHub, VS Code, npm, Postman.
-- **Infrastructure:** AWS, Docker, CI/CD, cloud deployment.
+- **Application development:** React, Next.js, Node.js, Express.js, FastAPI.
+- **Backend and APIs:** REST APIs, authentication, authorization, server-side development.
+- **Databases:** PostgreSQL, MySQL, Supabase, relational database design.
+- **Development tools:** Git, GitHub, VS Code, npm, Postman.
+- **Cloud and deployment:** AWS fundamentals, Docker, CI/CD, cloud deployment.
 
-currently exploring Spring Boot, advanced backend development, system design, distributed systems, Kubernetes, Terraform, and production infrastructure.
+currently expanding my practical knowledge of Spring Boot, Linux, Kubernetes, Terraform, distributed systems, and production infrastructure.
 
 ## exploring engineering
 
-- **Backend engineering:** building APIs, designing services, handling application logic, authentication, authorization, and database operations.
-- **Full-stack development:** developing complete applications with React, Next.js, Node.js, Java, and modern web technologies.
-- **Java development:** strengthening object-oriented programming, collections, multithreading, Spring Boot, and enterprise application development.
-- **System design:** understanding distributed systems, microservices, caching, message queues, database optimization, and application architecture.
-- **Cloud and DevOps:** working towards practical knowledge of AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, and infrastructure automation.
-- **Software quality:** learning testing strategies, debugging, application security, performance optimization, monitoring, and observability.
+- **Forward-deployed engineering:** customer discovery, technical problem scoping, solution architecture, enterprise integrations, rapid prototyping, production deployment, and translating business requirements into working software.
+- **Agentic systems engineering:** LangGraph, multi-agent orchestration, Model Context Protocol (MCP), Agent2Agent (A2A), tool calling, agent workflows, and human-in-the-loop systems.
+- **Applied AI engineering:** LLM integration, retrieval-augmented generation (RAG), embeddings, semantic search, vector databases, evaluation pipelines, and model-provider abstraction.
+- **Java and enterprise engineering:** Spring Boot, Spring AI, LangChain4j, microservices, enterprise APIs, event-driven applications, and backend service architecture.
+- **AI infrastructure and LLMOps:** model serving, vLLM, inference optimization, model monitoring, GPU resource management, model evaluation, and deployment workflows.
+- **Cloud-native engineering:** AWS, Kubernetes, Helm, Terraform, container orchestration, serverless architecture, and infrastructure as code.
+- **Platform engineering:** Backstage, internal developer platforms, GitOps, Argo CD, reusable deployment workflows, and developer experience.
+- **Distributed systems:** Apache Kafka, Redis, Temporal, asynchronous processing, event-driven architecture, service communication, and fault tolerance.
+- **Production engineering:** OpenTelemetry, Prometheus, Grafana, distributed tracing, observability, SRE principles, performance monitoring, and incident management.
+- **Security engineering:** OAuth 2.0, OpenID Connect, secrets management, API security, zero-trust architecture, and secure application design.
 
 ## learning and building
 
-most of my time goes into improving the fundamentals and applying them to actual projects.
+i'm focused on moving beyond building applications that simply work towards engineering systems that can be deployed, operated, integrated, and improved in real environments.
 
-- practicing data structures and algorithms using Java.
-- improving problem-solving and understanding time and space complexity.
-- developing backend applications with Java, Spring Boot, Node.js, and Python.
-- building full-stack applications with clear frontend, backend, and database boundaries.
-- understanding SQL, relational database design, indexing, transactions, and query optimization.
-- exploring system design, networking, operating systems, and distributed application architecture.
-- practicing cloud deployment, containerization, CI/CD, and infrastructure management.
-- learning how to design, test, secure, and maintain applications beyond their initial implementation.
+- strengthening Java, Python, data structures, algorithms, concurrency, and core computer science fundamentals.
+- developing production-oriented backend systems using Spring Boot, Node.js, FastAPI, PostgreSQL, and distributed application patterns.
+- building agentic applications using LangGraph, MCP, tool calling, structured outputs, and multi-step orchestration.
+- implementing RAG pipelines with embeddings, vector databases, hybrid search, retrieval evaluation, and contextual data processing.
+- exploring enterprise application integration, identity management, API gateways, asynchronous workflows, and service-to-service communication.
+- developing cloud infrastructure skills with AWS, Kubernetes, Helm, Terraform, and infrastructure automation.
+- practicing GitOps, Argo CD, CI/CD, container orchestration, and repeatable deployment environments.
+- learning production observability through OpenTelemetry, Prometheus, Grafana, logging, tracing, and application monitoring.
+- exploring AI infrastructure through vLLM, model serving, inference optimization, LLMOps, and evaluation frameworks.
+- improving engineering quality through automated testing, security reviews, performance analysis, reliability engineering, and production debugging.
+- learning to work effectively with AI coding agents and developer automation while maintaining responsibility for architecture, code quality, testing, and technical decisions.
+- developing the communication and problem-discovery skills required to work directly with customers, understand their existing systems, and deliver solutions that address actual operational problems.
 
-my longer-term direction is to become an engineer who can take ownership of a product from understanding the requirements and designing its architecture to building, deploying, and maintaining the complete system.
+my long-term goal is to become a forward-deployed engineer capable of moving between customer problems, software architecture, backend development, intelligent systems, and cloud infrastructure — taking solutions from an initial requirement to production and continuous improvement.
 
 ## elsewhere
 
