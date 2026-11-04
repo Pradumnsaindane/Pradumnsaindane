@@ -61,6 +61,6 @@ i'm focused on moving beyond building applications that simply work towards engi
 
 my long-term goal is to become a forward-deployed engineer capable of moving between customer problems, software architecture, backend development, intelligent systems, and cloud infrastructure — taking solutions from an initial requirement to production and continuous improvement.
 
-## elsewhere
+## Somewhere else
 
 [GitHub](https://github.com/Pradumnsaindane) · [LinkedIn](https://www.linkedin.com/in/pradumn-saindane-20893539a/) · [LeetCode](https://leetcode.com/u/Pradum_saindane/) · [HackerRank](https://www.hackerrank.com/profile/psaindane09) · [X](https://x.com/pradumncodes7) · [Email](mailto:psaindane09@gmail.com)
