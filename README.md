@@ -1,4 +1,4 @@
-# hi, i'm pradumn
+# HI, i'm pradumn
 
 i'm a software developer from Pune, India, interested in building software that solves real problems. i'm particularly interested in forward-deployed engineering, backend systems, intelligent applications, and the infrastructure behind modern software products. i enjoy working across different parts of a product, understanding what people actually need, and turning those requirements into working technical solutions.
 
